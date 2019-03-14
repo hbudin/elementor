@@ -4,7 +4,7 @@ define( 'WPCACHEHOME', '/var/www/vhosts/kadei.hr/elementor.work/wp-content/plugi
 define('WP_AUTO_UPDATE_CORE', false);// This setting is required to make sure that WordPress updates can be properly managed in WordPress Toolkit. Remove this line if this WordPress instance is not managed by WordPress Toolkit anymore.
 /**
  * The base configuration for WordPress
- * do not change
+ * DO NOT CHANGE
  * The wp-config.php creation script uses this file during the
  * installation. You don't have to use the web site, you can
  * copy this file to "wp-config.php" and fill in the values.
